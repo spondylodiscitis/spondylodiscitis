@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**spondylodiscitis/spondylodiscitis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- MILITARY_STATUS_START -->
+### ⚓ Republic of Korea Navy
 
-Here are some ideas to get you started:
+**입대까지 D-22**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 입대일: `2026-08-18`
+- 전역 예정일: `2028-04-17`
+- 예정 보직: **인공지능개발병**
+
+> Preparing to serve as an Artificial Intelligence Development Specialist in the Republic of Korea Navy.
+<!-- MILITARY_STATUS_END -->
