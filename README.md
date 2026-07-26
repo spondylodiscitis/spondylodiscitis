@@ -1,5 +1,4 @@
-### You have one of those familiar faces. I feel like we've met somewhere before. Perhaps in the backstreets of Bucheon?
-### Perhaps back in my Bucheon underworld days?
+### You have one of those familiar faces. I feel like we've met somewhere before. Perhaps in the backstreets of Bucheon? 
 
 ---
 
