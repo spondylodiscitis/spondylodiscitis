@@ -3,7 +3,7 @@
 ---
 
 <!-- MILITARY_STATUS_START -->
-### ⚓ Republic of Korea Navy
+### ⚓ R.O.K. Navy
 
 - 입대일: `2026-08-18`
 - 전역 예정일: `2028-04-17`
