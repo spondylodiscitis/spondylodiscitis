@@ -1,5 +1,6 @@
 ### You have one of those familiar faces. I feel like we've met somewhere before. Perhaps in the backstreets of Bucheon?
-Perhaps back in my Bucheon underworld days?
+### Perhaps back in my Bucheon underworld days?
+
 ---
 
 <!-- MILITARY_STATUS_START -->
