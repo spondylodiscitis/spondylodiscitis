@@ -1,5 +1,3 @@
-# Hi there 👋
-
 <!-- MILITARY_STATUS_START -->
 ### ⚓ Republic of Korea Navy
 
