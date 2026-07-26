@@ -1,4 +1,4 @@
-# Hi, I'm June Lee 👋
+You have one of those familiar faces. I feel like we've met somewhere before. Perhaps in a past life?
 
 **Biomedical AI Researcher · Data Scientist · Clinical Research Coordinator**
 
