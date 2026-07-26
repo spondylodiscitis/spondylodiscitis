@@ -1,4 +1,4 @@
-****You have one of those familiar faces. I feel like we've met somewhere before. Perhaps in a past life?****
+###You have one of those familiar faces. I feel like we've met somewhere before. Perhaps in a past life?
 
 ---
 
@@ -16,45 +16,28 @@
 
 ---
 
-## About Me
-
-- **B.S. Candidate in Data Science**, The Catholic University of Korea
-- **Second Major: Theragnosis Artificial Intelligence Engineering**
-
----
 ## Experience
 
-### Researcher
-**Department of Orthopedic Surgery, Bucheon St. Mary's Hospital, The Catholic University of Korea**  
+Researcher
+Department of Orthopedic Surgery, Bucheon St. Mary's Hospital, The Catholic University of Korea
+Advisor: Joonghyun Ahn, M.D.
 `Jun 2023 – Jul 2026`
 
-### Clinical Research Coordinator  
-**Clinical Trial Center, Bucheon St. Mary's Hospital, The Catholic University of Korea**  
+Clinical Research Coordinator  
+Clinical Trial Center, Bucheon St. Mary's Hospital, The Catholic University of Korea
+Advisor: Joonghyun Ahn, M.D.
 `Jul 2023 – Jul 2026`
 
-### Undergraduate Researcher  
-**ADSLAB, Department of Data Science, The Catholic University of Korea**  
-Advisor: **Youjin Shin, Ph.D.**  
+Undergraduate Researcher  
+ADSLAB, Department of Data Science, The Catholic University of Korea 
+Advisor: Youjin Shin, Ph.D.  
 `Sep 2023 – Jul 2026`
 
 ### Researcher  
-**Clinical Medicine Research Institute, Uijeongbu St. Mary's Hospital, The Catholic University of Korea**  
+Clinical Medicine Research Institute, Uijeongbu St. Mary's Hospital, The Catholic University of Korea 
 `Mar 2022 – Feb 2023`
 
 ---
-
-
-## Technical Skills
-
-### Programming and Data
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-
 
 
 ## Contact
@@ -63,10 +46,5 @@ Advisor: **Youjin Shin, Ph.D.**
 - Affiliation: The Catholic University of Korea
 - Laboratory: ADSLAB
 
----
-
-## Notes
-
-Clinical datasets, patient identifiers, raw medical images, institutional records, and restricted model checkpoints are not publicly distributed through my repositories.
 
 All medical AI projects are intended for research use only and are not validated for independent clinical diagnosis or patient management.
