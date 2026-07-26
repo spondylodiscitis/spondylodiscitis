@@ -1,4 +1,4 @@
-###You have one of those familiar faces. I feel like we've met somewhere before. Perhaps in a past life?
+### You have one of those familiar faces. I feel like we've met somewhere before. Perhaps in a past life?
 
 ---
 
@@ -16,28 +16,6 @@
 
 ---
 
-## Experience
-
-Researcher
-Department of Orthopedic Surgery, Bucheon St. Mary's Hospital, The Catholic University of Korea
-Advisor: Joonghyun Ahn, M.D.
-`Jun 2023 – Jul 2026`
-
-Clinical Research Coordinator  
-Clinical Trial Center, Bucheon St. Mary's Hospital, The Catholic University of Korea
-Advisor: Joonghyun Ahn, M.D.
-`Jul 2023 – Jul 2026`
-
-Undergraduate Researcher  
-ADSLAB, Department of Data Science, The Catholic University of Korea 
-Advisor: Youjin Shin, Ph.D.  
-`Sep 2023 – Jul 2026`
-
-### Researcher  
-Clinical Medicine Research Institute, Uijeongbu St. Mary's Hospital, The Catholic University of Korea 
-`Mar 2022 – Feb 2023`
-
----
 
 
 ## Contact
