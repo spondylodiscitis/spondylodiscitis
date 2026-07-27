@@ -1,4 +1,4 @@
-### You have one of those familiar faces. Haven’t we met before? Perhaps in the backstreets of Bucheon?
+### Oh, hello there?
 
 ---
 
